@@ -43,6 +43,6 @@ The objective is to build a predictive model capable of estimating flight prices
 
 Power BI dashboard included for interactive exploration.
 
-## 👩‍💻 Author
+## Author
 
 Samara Saldaña
